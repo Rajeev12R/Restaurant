@@ -1,0 +1,15 @@
+li{
+    margin-bottom: 10px;
+    cursor: pointer
+}
+h2{
+    color: white;
+}
+svg {
+    width: 100%; /* Full width */
+    height: 2px; /* Height of the line */
+}
+
+#footer-line {
+    stroke-width: 2; /* Stroke width of the line */
+}
